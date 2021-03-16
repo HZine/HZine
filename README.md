@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HZinem, I am a PhD student in physics
+- 👋 Hi, I’m @HZine, I am a PhD student in physics
 - 👀 I’m interested in programming in general
 - 🌱 I’m currently learning C++ and desktop app development
 
