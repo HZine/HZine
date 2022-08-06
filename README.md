@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HZine, I am a PhD student in physics
+- 👋 Hi, I’m @HZine (ZTC), I am a PhD student in physics
 - 👀 I’m interested in programming in general
 - 🌱 I’m currently using C++ and desktop app development, with some python and flutter(dart)
 - ✨ I am very interested with low level and performance
